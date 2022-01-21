@@ -1,0 +1,14 @@
+C:\Users\thoma\source\repos\ConsoleScreen\bin\Debug\netcoreapp3.1\ConsoleScreen.exe
+C:\Users\thoma\source\repos\ConsoleScreen\bin\Debug\netcoreapp3.1\ConsoleScreen.deps.json
+C:\Users\thoma\source\repos\ConsoleScreen\bin\Debug\netcoreapp3.1\ConsoleScreen.runtimeconfig.json
+C:\Users\thoma\source\repos\ConsoleScreen\bin\Debug\netcoreapp3.1\ConsoleScreen.runtimeconfig.dev.json
+C:\Users\thoma\source\repos\ConsoleScreen\bin\Debug\netcoreapp3.1\ConsoleScreen.dll
+C:\Users\thoma\source\repos\ConsoleScreen\bin\Debug\netcoreapp3.1\ConsoleScreen.pdb
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.AssemblyInfo.cs
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.dll
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.pdb
+C:\Users\thoma\source\repos\ConsoleScreen\obj\Debug\netcoreapp3.1\ConsoleScreen.genruntimeconfig.cache
